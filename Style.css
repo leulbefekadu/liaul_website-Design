@@ -1,0 +1,40 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.menu-bar{background:rgb(0,100,0);
+  text-align: center;
+}
+.menu-bar ul{ display: inline-flex;
+  list-style: none;
+  color: white;
+}
+.menu-bar ul li{
+  width: 90px;
+  padding: 15px;
+  margin: 15pcx;
+}
+.menu-bar ul li a{ 
+  text-decoration :none;
+  color: white;}
+.menu-bar.fa{
+  margin-right: 8px;
+}
+.menu-bar ul ul{
+  display: none;
+  margin-left: 50px;
+  width: 60px;
+  box-sizing: border-box;
+  margin: 10px;
+}
+{
+  display: none;
+}
+.menu-bar ul li:hover > ul
+{
+  display: block;
+}
+.active.menu-bar ul li a:hover{
+  background:#2bab0d ;
+  border-radius: 4px;}

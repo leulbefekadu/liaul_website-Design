@@ -1,0 +1,48 @@
+#Home
+{ 
+  color: blue;
+  text-align: center; } 
+  #description { color:darkred;
+font-family: Verdana; 
+font-size: large; } 
+#h1{ text-align:center; 
+color:gold; 
+font-weight:
+bold; } 
+#h2{ text-align:center; color:
+brown ; font-weight: bold; }
+#h3{ text-align:
+center; color: black; 
+font-weight:bold; } 
+#h4{color:green; 
+text-align: center;
+font-weight:bold; } 
+#story{ color:green; 
+background-color: chocolate ; 
+font-family:
+Comic Sans MS; font-size:15px; } 
+#part1 { color:green; font-family: 
+Times New Roman;
+font-size: medium ; 
+background-color: blue; } 
+#part2 { color:white; font-family:
+Verdana; font-size: medium ; 
+background-image: url(leul.jpg);
+background-position-x:center; 
+background-position-y:120mm; }
+#circle{
+  list-style: circle ;
+  } 
+#square{
+list-style: square ; } 
+.click{color: white; 
+font-size: 25px; } 
+#button{ background-image:
+url(ht.jpg); text-align: auto; } 
+.closing{ color:blue; 
+font-family:Times New Roman; 
+font-size: 20px; } 
+.copyright { 
+  color: white; 
+  
+}
